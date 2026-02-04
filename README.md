@@ -62,19 +62,19 @@ Investigated security incidents by filtering SQL queries to detect after-hours f
 - **Tools:** SQLite, DB Browser
 - **Skills:** Data filtering, pattern recognition, threat detection
 
-[<img src="https://img.shields.io/badge/Linux_File_Permissions_Management-1B3A57?style=for-the-badge&logo=linux&logoColor=white" />](https://github.com/Dariusz-Piasecki/linux-file-permissions)
+[<img src="https://img.shields.io/badge/Linux_File_Permissions_Management-1B3A57?style=for-the-badge&logo=linux&logoColor=white" />](https://github.com/Dariusz-Piasecki/linux-file-permissions) <sup>🔗</sup>
 
 Managed file and directory permissions using `chmod` to enforce least-privilege access control in a research team environment.
 - **Tools:** Linux, Bash, chmod
 - **Skills:** Access control, security hardening, least privilege
 
-[<img src="https://img.shields.io/badge/Botium_Toys_Security_Audit-1B3A57?style=for-the-badge&logo=target&logoColor=white" />](https://github.com/Dariusz-Piasecki/botium-toys-security-audit)
+[<img src="https://img.shields.io/badge/Botium_Toys_Security_Audit-1B3A57?style=for-the-badge&logo=target&logoColor=white" />](https://github.com/Dariusz-Piasecki/botium-toys-security-audit) <sup>🔗</sup>
 
 Conducted a comprehensive internal security audit using the NIST CSF to assess risk, evaluate controls, and ensure PCI DSS/GDPR/SOC compliance.
 - **Framework:** NIST CSF
 - **Skills:** Risk assessment, compliance, security controls
 
-[<img src="https://img.shields.io/badge/Incident_Handler's_Journal-1B3A57?style=for-the-badge&logo=obsidian&logoColor=white" />](https://github.com/Dariusz-Piasecki/Incident-Handler-s-Journal)
+[<img src="https://img.shields.io/badge/Incident_Handler's_Journal-1B3A57?style=for-the-badge&logo=obsidian&logoColor=white" />](https://github.com/Dariusz-Piasecki/Incident-Handler-s-Journal) <sup>🔗</sup>
 
 Documented a ransomware incident response at a healthcare clinic using the 5 W's framework, covering detection, containment, recovery, and post-incident audit.
 - **Framework:** NIST Incident Response Lifecycle
