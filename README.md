@@ -1,8 +1,12 @@
-![ ](background.png)
+# Dariusz Piasecki
 
-# Hi there, I'm Dariusz Piasecki
+<div align="center">
 
 **Junior Cybersecurity Specialist** | Munich, Germany
+
+*"Never confuse education with intelligence"* — Richard Feynman
+
+</div>
 
 ---
 
@@ -12,19 +16,19 @@ I'm a cybersecurity professional with nearly two decades of problem-solving expe
 
 - **Passionate about:** Blue Team Operations, Incident Response, Security Analysis
 - **Focus areas:** SQL Forensics, NIST CSF Implementation, MITRE ATT&CK Framework
-- **Currently learning:** Advanced threat detection, SIEM tools (Splunk), Python for security automation
-- **Background:** 20+ years in project management and meticulous documentation — skills I now apply to security operations
+- **Currently learning:** Advanced threat detection, SIEM tools (Splunk, Wireshark), Python for security automation
+- **Background:** 20+ years in project management and meticulous visual documentation (photography, video, multimedia) — skills I now apply to security operations and technical reporting
 
 ---
 
 ## Certifications
 
-| Certification | Issuer | Date | Credential |
-|---------------|--------|------|------------|
-| **CompTIA Security+** | CompTIA | Apr 2025 | [View Certificate](https://www.credly.com/badges/77481d0f-b11d-4630-9bcc-8bcbf06a1584) |
-| **Google Cybersecurity** | Google | Dec 2024 | [View Certificate](https://www.credly.com/badges/3d6c3d43-ac20-473e-b93f-4a34862d99e1) |
-| **Google IT Support** | Google | Nov 2024 | [View Certificate](https://www.credly.com/badges/bbcbf9c6-df2b-4e55-a7b0-542d02ccc036) |
-| **Security Operations Center Analysis** | Masterschool | Apr 2025 | [View Certificate](https://drive.google.com/file/d/1ey70KTDa9UXRN7SnroaAoHiOZWdjjvwz/view) |
+| Certification | Issuer | Hours / Date | Credential |
+|---------------|--------|--------------|------------|
+| **Masterschool Cybersecurity** – Security Operations Center Analysis | Masterschool | 1440 hours (Apr 2025) | [View Certificate](https://drive.google.com/file/d/1ey70KTDa9UXRN7SnroaAoHiOZWdjjvwz/view) |
+| **CompTIA Security+** | CompTIA | Apr 2025 | [View Credential](https://www.credly.com/badges/77481d0f-b11d-4630-9bcc-8bcbf06a1584) |
+| **Google Cybersecurity** | Google | Dec 2024 | [View Credential](https://www.credly.com/badges/3d6c3d43-ac20-473e-b93f-4a34862d99e1) |
+| **Google IT Support** | Google | Nov 2024 | [View Credential](https://www.credly.com/badges/bbcbf9c6-df2b-4e55-a7b0-542d02ccc036) |
 
 ---
 
@@ -58,25 +62,25 @@ TCP/IP • SSH • VPN • DNS • DHCP • SSL/TLS • Kerberos • SNMP • LD
 
 ## Featured Projects
 
-[<img src="https://img.shields.io/badge/SQL_Security_Analysis-1B3A57?style=for-the-badge&logo=sqlite&logoColor=white" />](https://github.com/Dariusz-Piasecki/sql-security-audit) <sup>🔗</sup>
+[<img src="https://img.shields.io/badge/SQL_Security_Analysis-1B3A57?style=for-the-badge&logo=sqlite&logoColor=white" />](https://github.com/Dariusz-Piasecki/sql-security-audit)
 
 Investigated security incidents by filtering SQL queries to detect after-hours failed logins, geographic anomalies, and suspicious activity.
 - **Tools:** SQLite, DB Browser
 - **Skills:** Data filtering, pattern recognition, threat detection
 
-[<img src="https://img.shields.io/badge/Linux_File_Permissions_Management-1B3A57?style=for-the-badge&logo=linux&logoColor=white" />](https://github.com/Dariusz-Piasecki/linux-file-permissions) <sup>🔗</sup>
+[<img src="https://img.shields.io/badge/Linux_File_Permissions_Management-1B3A57?style=for-the-badge&logo=linux&logoColor=white" />](https://github.com/Dariusz-Piasecki/linux-file-permissions)
 
 Managed file and directory permissions using `chmod` to enforce least-privilege access control in a research team environment.
 - **Tools:** Linux, Bash, chmod
 - **Skills:** Access control, security hardening, least privilege
 
-[<img src="https://img.shields.io/badge/Botium_Toys_Security_Audit-1B3A57?style=for-the-badge&logo=target&logoColor=white" />](https://github.com/Dariusz-Piasecki/botium-toys-security-audit) <sup>🔗</sup>
+[<img src="https://img.shields.io/badge/Botium_Toys_Security_Audit-1B3A57?style=for-the-badge&logo=target&logoColor=white" />](https://github.com/Dariusz-Piasecki/botium-toys-security-audit)
 
 Conducted a comprehensive internal security audit using the NIST CSF to assess risk, evaluate controls, and ensure PCI DSS/GDPR/SOC compliance.
 - **Framework:** NIST CSF
 - **Skills:** Risk assessment, compliance, security controls
 
-[<img src="https://img.shields.io/badge/Incident_Handler's_Journal-1B3A57?style=for-the-badge&logo=obsidian&logoColor=white" />](https://github.com/Dariusz-Piasecki/Incident-Handler-s-Journal) <sup>🔗</sup>
+[<img src="https://img.shields.io/badge/Incident_Handler's_Journal-1B3A57?style=for-the-badge&logo=obsidian&logoColor=white" />](https://github.com/Dariusz-Piasecki/Incident-Handler-s-Journal)
 
 Documented a ransomware incident response at a healthcare clinic using the 5 W's framework, covering detection, containment, recovery, and post-incident audit.
 - **Framework:** NIST Incident Response Lifecycle
@@ -130,7 +134,7 @@ This background provides me with:
 
 ## Currently Exploring
 
-- Advanced SIEM analytics with **Splunk**
+- Advanced SIEM analytics with **Splunk** and **Wireshark**
 - Threat hunting using **MITRE ATT&CK**
 - Security automation with **Python**
 - Incident response playbooks and runbooks
@@ -148,7 +152,9 @@ This background provides me with:
 
 <div align="center">
   
-### "Security is not a product, but a process." – Bruce Schneier
+*"Security is not a product, but a process."* — Bruce Schneier
+
+---
 
 *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on cybersecurity projects.*
 
