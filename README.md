@@ -56,7 +56,7 @@ TCP/IP • SSH • VPN • DNS • DHCP • SSL/TLS • Kerberos • SNMP • LD
 
 ## Featured Projects
 
-
+🔗
 [<img src="https://img.shields.io/badge/SQL_Security_Analysis-1B3A57?style=for-the-badge&logo=sqlite&logoColor=white" />](https://github.com/Dariusz-Piasecki/sql-security-audit)
 
 Investigated security incidents by filtering SQL queries to detect after-hours failed logins, geographic anomalies, and suspicious activity.
