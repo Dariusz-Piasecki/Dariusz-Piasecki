@@ -79,21 +79,25 @@ Documented a ransomware incident response at a healthcare clinic using the 5 W's
 ---
 
 [<img src="https://img.shields.io/badge/SQL_Security_Analysis-191970?style=for-the-badge&logo=sqlite&logoColor=white" />](https://github.com/Dariusz-Piasecki/sql-security-audit)
+
 Investigated security incidents by filtering SQL queries to detect after-hours failed logins, geographic anomalies, and suspicious activity.
 - **Tools:** SQLite, DB Browser
 - **Skills:** Data filtering, pattern recognition, threat detection
 
 [<img src="https://img.shields.io/badge/Linux_File_Permissions_Management-191970?style=for-the-badge&logo=linux&logoColor=white" />](https://github.com/Dariusz-Piasecki/linux-file-permissions)
+
 Managed file and directory permissions using `chmod` to enforce least-privilege access control in a research team environment.
 - **Tools:** Linux, Bash, chmod
 - **Skills:** Access control, security hardening, least privilege
 
 [<img src="https://img.shields.io/badge/Botium_Toys_Security_Audit-191970?style=for-the-badge&logo=target&logoColor=white" />](https://github.com/Dariusz-Piasecki/botium-toys-security-audit)
+
 Conducted a comprehensive internal security audit using the NIST CSF to assess risk, evaluate controls, and ensure PCI DSS/GDPR/SOC compliance.
 - **Framework:** NIST CSF
 - **Skills:** Risk assessment, compliance, security controls
 
 [<img src="https://img.shields.io/badge/Incident_Handler's_Journal-191970?style=for-the-badge&logo=obsidian&logoColor=white" />](https://github.com/Dariusz-Piasecki/Incident-Handler-s-Journal)
+
 Documented a ransomware incident response at a healthcare clinic using the 5 W's framework, covering detection, containment, recovery, and post-incident audit.
 - **Framework:** NIST Incident Response Lifecycle
 - **Skills:** Incident response, documentation, threat analysis
