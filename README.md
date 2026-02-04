@@ -29,7 +29,7 @@ I'm a cybersecurity professional with nearly two decades of problem-solving expe
 ## Technical Skills
 
 ### Security & Monitoring
-![Wireshark]
+![Wireshark](https://img.shields.io/badge/Wireshark-1B3A57?style=flat-square&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-1B3A57?style=flat-square&logo=splunk&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-1B3A57?style=flat-square&logo=snort&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-1B3A57?style=flat-square&logo=nmap&logoColor=white)
