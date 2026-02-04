@@ -71,7 +71,7 @@ Conducted a comprehensive internal security audit using the NIST CSF to assess r
 - **Framework:** NIST CSF
 - **Skills:** Risk assessment, compliance, security controls
 
-### [Incident Handler's Journal](https://github.com/Dariusz-Piasecki/incident-handler-journal)
+### [Incident Handler's Journal](https://github.com/Dariusz-Piasecki/Incident-Handler-s-Journal)
 Documented a ransomware incident response at a healthcare clinic using the 5 W's framework, covering detection, containment, recovery, and post-incident audit.
 - **Framework:** NIST Incident Response Lifecycle
 - **Skills:** Incident response, documentation, threat analysis
