@@ -6,7 +6,7 @@
 
 **Junior Cybersecurity Specialist** | Munich, Germany
 
-*"Security is not a product, but a process."* — Bruce Schneier
+***"Security is not a product, but a process."*** — Bruce Schneier
 
 </div>
 
