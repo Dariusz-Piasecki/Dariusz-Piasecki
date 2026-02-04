@@ -1,3 +1,5 @@
+!(background.png)
+
 # Hi there, I'm Dariusz Piasecki
 
 **Junior Cybersecurity Specialist** | Munich, Germany
