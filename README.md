@@ -6,7 +6,7 @@
 
 **Junior Cybersecurity Specialist** | Munich, Germany
 
-*"Never confuse education with intelligence"* — Richard Feynman
+*"Security is not a product, but a process."* — Bruce Schneier
 
 </div>
 
@@ -160,7 +160,7 @@ This background provides me with:
 
 <div align="center">
   
-*"Security is not a product, but a process."* — Bruce Schneier
+*"Never confuse education with intelligence"* — Richard Feynman
 
 ---
 
