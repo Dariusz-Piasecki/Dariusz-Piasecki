@@ -19,7 +19,7 @@ I'm a cybersecurity professional with nearly two decades of problem-solving expe
 
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|------------|
-| **CompTIA Security+** | CompTIA | Apr 2025 | [View Certificate](#) |
+| **CompTIA Security+** | CompTIA | Apr 2025 | [View Certificate](https://www.credly.com/badges/77481d0f-b11d-4630-9bcc-8bcbf06a1584) |
 | **Google Cybersecurity** | Google | Dec 2024 | [View Certificate](#) |
 | **Google IT Support** | Google | Nov 2024 | [View Certificate](#) |
 
