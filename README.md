@@ -27,7 +27,7 @@ I'm a cybersecurity professional with nearly two decades of problem-solving expe
 ## Certifications
 
 | Certification | Issuer | Hours / Date | Credential |
-|---------------|--------|--------------|------------|
+|---------------------------|--------|--------------|------------|
 | **Masterschool Cybersecurity** – SOC Analysis | Masterschool | Apr 2025 (1440 h) | [View Certificate](https://drive.google.com/file/d/1ey70KTDa9UXRN7SnroaAoHiOZWdjjvwz/view) |
 | **CompTIA Security+** | CompTIA | Apr 2025 | [View Credential](https://www.credly.com/badges/77481d0f-b11d-4630-9bcc-8bcbf06a1584) |
 | **Google Cybersecurity** | Google | Dec 2024 | [View Credential](https://www.credly.com/badges/3d6c3d43-ac20-473e-b93f-4a34862d99e1) |
