@@ -20,8 +20,9 @@ I'm a cybersecurity professional with nearly two decades of problem-solving expe
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|------------|
 | **CompTIA Security+** | CompTIA | Apr 2025 | [View Certificate](https://www.credly.com/badges/77481d0f-b11d-4630-9bcc-8bcbf06a1584) |
-| **Google Cybersecurity** | Google | Dec 2024 | [View Certificate](#) |
-| **Google IT Support** | Google | Nov 2024 | [View Certificate](#) |
+| **Google Cybersecurity** | Google | Dec 2024 | [View Certificate](https://www.credly.com/badges/3d6c3d43-ac20-473e-b93f-4a34862d99e1) |
+| **Google IT Support** | Google | Nov 2024 | [View Certificate](https://www.credly.com/badges/bbcbf9c6-df2b-4e55-a7b0-542d02ccc036) |
+| **Security Operations Center Analysis** | Masterschool | Apr 2025 | [View Certificate]([https://www.credly.com/badges/bbcbf9c6-df2b-4e55-a7b0-542d02ccc036](https://drive.google.com/file/d/1ey70KTDa9UXRN7SnroaAoHiOZWdjjvwz/view)) |
 
 ---
 
