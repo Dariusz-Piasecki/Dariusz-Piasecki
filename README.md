@@ -56,7 +56,7 @@ TCP/IP • SSH • VPN • DNS • DHCP • SSL/TLS • Kerberos • SNMP • LD
 
 ## Featured Projects
 
-### [SQL Security Analysis](https://github.com/Dariusz-Piasecki/sql-security-analysis)
+### [SQL Security Analysis](https://github.com/Dariusz-Piasecki/sql-security-audit)
 Investigated security incidents by filtering SQL queries to detect after-hours failed logins, geographic anomalies, and suspicious activity.
 - **Tools:** SQLite, DB Browser
 - **Skills:** Data filtering, pattern recognition, threat detection
