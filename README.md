@@ -56,28 +56,6 @@ TCP/IP • SSH • VPN • DNS • DHCP • SSL/TLS • Kerberos • SNMP • LD
 
 ## Featured Projects
 
-### [SQL Security Analysis](https://github.com/Dariusz-Piasecki/sql-security-audit)
-Investigated security incidents by filtering SQL queries to detect after-hours failed logins, geographic anomalies, and suspicious activity.
-- **Tools:** SQLite, DB Browser
-- **Skills:** Data filtering, pattern recognition, threat detection
-
-### [Linux File Permissions Management](https://github.com/Dariusz-Piasecki/linux-file-permissions)
-Managed file and directory permissions using `chmod` to enforce least-privilege access control in a research team environment.
-- **Tools:** Linux, Bash, chmod
-- **Skills:** Access control, security hardening, least privilege
-
-### [Botium Toys Security Audit](https://github.com/Dariusz-Piasecki/botium-toys-security-audit)
-Conducted a comprehensive internal security audit using the NIST CSF to assess risk, evaluate controls, and ensure PCI DSS/GDPR/SOC compliance.
-- **Framework:** NIST CSF
-- **Skills:** Risk assessment, compliance, security controls
-
-### [Incident Handler's Journal](https://github.com/Dariusz-Piasecki/Incident-Handler-s-Journal)
-Documented a ransomware incident response at a healthcare clinic using the 5 W's framework, covering detection, containment, recovery, and post-incident audit.
-- **Framework:** NIST Incident Response Lifecycle
-- **Skills:** Incident response, documentation, threat analysis
-
----
-
 [<img src="https://img.shields.io/badge/SQL_Security_Analysis-1B3A57?style=for-the-badge&logo=sqlite&logoColor=white" />](https://github.com/Dariusz-Piasecki/sql-security-audit)
 
 Investigated security incidents by filtering SQL queries to detect after-hours failed logins, geographic anomalies, and suspicious activity.
