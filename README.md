@@ -1,4 +1,4 @@
-!(background.png)
+![ ](background.png)
 
 # Hi there, I'm Dariusz Piasecki
 
