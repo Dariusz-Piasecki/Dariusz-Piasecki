@@ -1,3 +1,5 @@
+![ ](background.png)
+
 # Dariusz Piasecki
 
 <div align="center">
@@ -62,29 +64,35 @@ TCP/IP • SSH • VPN • DNS • DHCP • SSL/TLS • Kerberos • SNMP • LD
 
 ## Featured Projects
 
-[<img src="https://img.shields.io/badge/SQL_Security_Analysis-1B3A57?style=for-the-badge&logo=sqlite&logoColor=white" />](https://github.com/Dariusz-Piasecki/sql-security-audit)
+[<img src="https://img.shields.io/badge/SQL_Security_Analysis-1B3A57?style=for-the-badge&logo=sqlite&logoColor=white" />](https://github.com/Dariusz-Piasecki/sql-security-audit) <sup>🔗</sup>
 
 Investigated security incidents by filtering SQL queries to detect after-hours failed logins, geographic anomalies, and suspicious activity.
 - **Tools:** SQLite, DB Browser
 - **Skills:** Data filtering, pattern recognition, threat detection
 
-[<img src="https://img.shields.io/badge/Linux_File_Permissions_Management-1B3A57?style=for-the-badge&logo=linux&logoColor=white" />](https://github.com/Dariusz-Piasecki/linux-file-permissions)
+[<img src="https://img.shields.io/badge/Linux_File_Permissions_Management-1B3A57?style=for-the-badge&logo=linux&logoColor=white" />](https://github.com/Dariusz-Piasecki/linux-file-permissions) <sup>🔗</sup>
 
 Managed file and directory permissions using `chmod` to enforce least-privilege access control in a research team environment.
 - **Tools:** Linux, Bash, chmod
 - **Skills:** Access control, security hardening, least privilege
 
-[<img src="https://img.shields.io/badge/Botium_Toys_Security_Audit-1B3A57?style=for-the-badge&logo=target&logoColor=white" />](https://github.com/Dariusz-Piasecki/botium-toys-security-audit)
+[<img src="https://img.shields.io/badge/Botium_Toys_Security_Audit-1B3A57?style=for-the-badge&logo=target&logoColor=white" />](https://github.com/Dariusz-Piasecki/botium-toys-security-audit) <sup>🔗</sup>
 
 Conducted a comprehensive internal security audit using the NIST CSF to assess risk, evaluate controls, and ensure PCI DSS/GDPR/SOC compliance.
 - **Framework:** NIST CSF
 - **Skills:** Risk assessment, compliance, security controls
 
-[<img src="https://img.shields.io/badge/Incident_Handler's_Journal-1B3A57?style=for-the-badge&logo=obsidian&logoColor=white" />](https://github.com/Dariusz-Piasecki/Incident-Handler-s-Journal)
+[<img src="https://img.shields.io/badge/Incident_Handler's_Journal-1B3A57?style=for-the-badge&logo=obsidian&logoColor=white" />](https://github.com/Dariusz-Piasecki/Incident-Handler-s-Journal) <sup>🔗</sup>
 
 Documented a ransomware incident response at a healthcare clinic using the 5 W's framework, covering detection, containment, recovery, and post-incident audit.
 - **Framework:** NIST Incident Response Lifecycle
 - **Skills:** Incident response, documentation, threat analysis
+
+[<img src="https://img.shields.io/badge/Vulnerability_Assessment_Report-1B3A57?style=for-the-badge&logo=security&logoColor=white" />](https://github.com/Dariusz-Piasecki/Vulnerability-Assessment-Report) <sup>🔗</sup>
+
+Conducted a NIST SP 800-30 vulnerability assessment of a publicly accessible PostgreSQL database, identifying critical risks and delivering prioritized remediation strategies to reduce exposure by 75%.
+- **Framework:** NIST SP 800-30 Rev. 1
+- **Skills:** Risk assessment, threat modeling, remediation planning
 
 ---
 
