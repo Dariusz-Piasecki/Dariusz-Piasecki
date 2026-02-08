@@ -135,7 +135,7 @@ This background provides me with:
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3A57?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piaseckiphotos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B3A57?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariusz-piasecki/)
 [![Email](https://img.shields.io/badge/Email-1B3A57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariusz.piasecki.sec@gmail.com)
 [![Website](https://img.shields.io/badge/Website-1B3A57?style=for-the-badge&logo=About.me&logoColor=white)](https://piaseckiphotos.com)
 
