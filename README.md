@@ -39,7 +39,7 @@ I'm a cybersecurity professional with nearly two decades of problem-solving expe
 
 | Certification | Issuer |  Date | Credential |
 |---------------------------|--------|--------------|------------|
-| **CERTIFICATE UX Design** | InfoShare Academy | Apr 2023 | [View Certificate](https://drive.google.com/drive/u/0/folders/1-0FhKB-w2BCYLPDC0OPQQrgjc_KZBJeS) |
+| **CERTIFICATE UX Design** | InfoShare Academy | Apr 2023 | [View Certificate](https://drive.google.com/file/d/1-0wfMxJvJTw_wPVSy9vWiMFosz7Nj3r4/view?usp=sharing) |
   
 ---
 
